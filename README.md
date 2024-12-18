@@ -1,5 +1,3 @@
-# Peaje
-Programa que modela un sistema de peaje, utilizando Java
 # Sistema de Peaje
 
 ## Descripción
