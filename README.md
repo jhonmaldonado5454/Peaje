@@ -92,5 +92,5 @@ Este proyecto está bajo la licencia **MIT**. Siéntete libre de utilizarlo y mo
 ---
 
 ## Autor
-Desarrollado por [Tu Nombre].
+Desarrollado por [Jhon Maldonado].
 
